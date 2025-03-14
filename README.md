@@ -16,8 +16,7 @@ A React application that fetches and displays characters from the **Rick and Mor
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/rick-and-morty-app.git
-cd rick-and-morty-app
+git clone https://github.com/VeneraPlakolli/Rick-Morty-Characters.git
 ```
 
 ## Install dependencies
