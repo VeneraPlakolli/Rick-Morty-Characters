@@ -1,0 +1,38 @@
+{
+    "title": "The Rick and Morty Characters",
+    "filterBySpecies": "Filter by species",
+    "filterByStatus": "Filter by status",
+    "sortBy": "Sort by",
+    "all": "All",
+    "status": {
+        "Alive": "Alive",
+        "Dead": "Dead",
+        "unknown": "Unknown"
+    },
+    "species": {
+        "Human": "Human",
+        "Alien": "Alien",
+        "Humanoid": "Humanoid",
+        "unknown": "Unknown",
+        "Robot": "Robot",
+        "Animal": "Animal",
+        "Disease": "Disease",
+        "Poopybutthole": "Poopybutthole",
+        "Mythological Creature": "Mythological Creature"
+    },
+    "gender": {
+        "title": "Gender",
+        "Female": "Female",
+        "Male": "Male",
+        "unknown": "unknown"
+    },
+    "origin": "Origin",
+    "sort": {
+        "default": "Default",
+        "nameAsc": "Name (A-Z)",
+        "nameDesc": "Name (Z-A)",
+        "originAsc": "Origin (A-Z)",
+        "originDesc": "Origin (Z-A)"
+    }
+  }
+  
